@@ -19,6 +19,10 @@ Installation folder:
    - **macOS**: `/Users/<user>/.config/xournalpp`
 
 
+v1.2.7:
+   - **Windows**: `C:\Users\lkdhr\AppData\Local\xournalpp\plugins`
+
+
 ## Important links
 For more information
 - https://xournalpp.github.io/guide/plugins/plugins/#building-plugins
