@@ -20,7 +20,7 @@ Installation folder:
 
 
 v1.2.7:
-   - **Windows**: `C:\Users\lkdhr\AppData\Local\xournalpp\plugins`
+   - **Windows**: `C:\Users\<user>\AppData\Local\xournalpp\plugins`
 
 
 ## Important links
